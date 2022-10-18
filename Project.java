@@ -31,7 +31,7 @@ public class Project
 {
 	public static void main(String[] args) throws Exception
 	{
-		String server = "irc.freenode.net"; //server name
+		String server = "https://webchat.freenode.net/"; //server name
 		String channel = "#cs2336Bao"; //channel name
 			
 	    IRCBot bot = new IRCBot(); //bot object
